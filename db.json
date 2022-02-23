@@ -1,0 +1,28 @@
+{
+  "resorts": [
+    {
+      "id": 1,
+      "title": "King Room",
+      "price": "300",
+      "img": "https://i.ibb.co/BZnxmLK/resort1.webp"
+    },
+    {
+      "id": 2,
+      "title": "Queen Room",
+      "price": "200",
+      "img": "https://i.ibb.co/ZG1f5f3/resort2.webp"
+    },
+    {
+      "id": 3,
+      "title": "Prince Room",
+      "price": "100",
+      "img": "https://i.ibb.co/0Q7S4cn/resort3.webp"
+    },
+    {
+      "id": 4,
+      "title": "Princess Room",
+      "price": "100",
+      "img": "https://i.ibb.co/Fs5NJxf/resort4.webp"
+    }
+  ]
+}
