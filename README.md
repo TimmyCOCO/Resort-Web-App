@@ -3,7 +3,7 @@
 ## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, you can run
+In the project directory, you can run:
 ### `npx create-react-app .`
 
 
@@ -25,7 +25,7 @@ This project also requires to install [json-server](https://www.npmjs.com/packag
 
 ### `npm i json-server`
 
-In the project directory, you can run:
+Open a new terminal on the project directory and run:
 
 ### `json-server --watch -p 2000 db.json`
 
