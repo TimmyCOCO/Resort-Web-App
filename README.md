@@ -16,8 +16,8 @@ In the project directory, run:
 Those packages include:
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 
-In the project directory, **copy this and run**:
-### `npm i react-router-dom`
+In the project directory, run:
+### `npm install` to install all packages
 
 
 # json-server 
